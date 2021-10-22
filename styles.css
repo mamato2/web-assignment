@@ -1,0 +1,87 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#nav_menu {
+ 
+  width: 20%;
+  padding: 
+ }
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  width: 200px;
+}
+li{
+ 
+  background-color:azure
+    list-style: none;
+  margin: 15px;
+}
+
+a{
+  background-color: white;
+  display: block;
+  padding: 10px;
+  font-family: ariel;
+  text-decoration: none;
+  color: gray;
+   }
+ a:hover{
+    background-color: azure;
+   color: black;
+}
+#wrapper{
+  width: 960px;
+    margin-left: auto;
+  margin-right: auto;
+}
+  
+
+#banner{
+ background-image: url(counsel.jpg);
+  height: 200px;
+  text-indent: -9999px;
+
+}
+
+#main_content {
+  background-image: url(purple.jpg);
+    float: left;
+  
+}
+
+#left {
+  width: 20%;
+  float: left;
+}
+
+#center {
+
+
+  width: 60%;
+  float: left;  
+    font-family: verdana;
+}
+
+#content{
+  background-color: beige;
+  Padding: 20px;
+ }
+
+#right{
+ width: 20%;
+  float: left;
+}
+
+#add_content{
+  padding: 20px;
+}
+
+#footer{
+  
+  background-color: azure;
+  clear: both;
+}
